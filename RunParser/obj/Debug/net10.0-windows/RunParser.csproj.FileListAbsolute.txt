@@ -1,0 +1,15 @@
+C:\dev\STS2Tracker\RunParser\bin\Debug\net10.0-windows\RunParser.exe
+C:\dev\STS2Tracker\RunParser\bin\Debug\net10.0-windows\RunParser.deps.json
+C:\dev\STS2Tracker\RunParser\bin\Debug\net10.0-windows\RunParser.runtimeconfig.json
+C:\dev\STS2Tracker\RunParser\bin\Debug\net10.0-windows\RunParser.dll
+C:\dev\STS2Tracker\RunParser\bin\Debug\net10.0-windows\RunParser.pdb
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.AssemblyInfoInputs.cache
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.AssemblyInfo.cs
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.csproj.CoreCompileInputs.cache
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.sourcelink.json
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.dll
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\refint\RunParser.dll
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.pdb
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\RunParser.genruntimeconfig.cache
+C:\dev\STS2Tracker\RunParser\obj\Debug\net10.0-windows\ref\RunParser.dll
